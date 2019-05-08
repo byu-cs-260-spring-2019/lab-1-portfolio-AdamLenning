@@ -1,29 +1,32 @@
 
 h1 {
-    background-color: darksalmon
+    background-color: darksalmon;
 }
 
 h2 {
-    background-color: darkolivegreen
+    background-color: darkolivegreen;
 }
 
 li {
     text-align: center;
 }
 
-#AboutMe {
+#aboutMe {
     color: black;
 }
 
-#Projects {
+#projects {
     color: black;
 }
 
-#Work {
+#work {
     color: black;
 }
 
-#Links {
+#links {
     color: black;
 }
 
+#answer {
+    display: none;
+}
